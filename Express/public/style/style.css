@@ -1,0 +1,51 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+
+}
+.logincolumn{
+
+    background-color: red;
+    width: 525px;
+    height: 400px;
+    margin: 100px 280px;
+}
+.signcolumn{
+
+    width: 525px;
+    /* color: white; */
+    height: 565px;
+    margin: 32px 280px;
+
+
+}
+
+.loginbutton{
+
+width: 140px;
+margin: 35px 360px;
+
+
+}
+input{
+
+height: 45px;
+outline: none;
+border-radius: 10px;
+
+
+}
+.signupbutton{
+
+margin-top: 10px;
+height: 45px;
+border-radius: 10px;
+background-color: blueviolet;
+border: none;
+color: white;
+
+}
